@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinLesson0604_2and3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">title</string>
+    <string name="Name">Name</string>
+    <string name="Age">Age</string>
+    <string name="save">Save</string>
+</resources>
